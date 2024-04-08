@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jerome, aka @RedPaladin
 - 👀 I’m interested in technologies, sport, nature
-- 🌱 I’m currently learning Rust and C++
+- 🌱 I’m currently programming in C++, C# and Python
 - 💞️ I’m looking to collaborate on embedded system development, video games
 - 📫 Reach me on my GitHub personnal page!
 
