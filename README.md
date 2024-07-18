@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jerome, aka @RedPaladin
-- 👀 I’m interested in technologies, sport, nature
+- 👀 I’m interested in technologies, sport, spending time with my family
 - 🌱 I’m currently programming in C++, C# and Python
-- 💞️ I’m looking to collaborate on embedded system development, video games
+- 💞️ I’m looking to collaborate on embedded system development, home automation, video games
 - 📫 Reach me on my GitHub personnal page!
 
 <!---
